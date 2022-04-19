@@ -78,6 +78,7 @@ body {
   color: hsl(221, 11%, 71%);
 }
 .link {
+  padding-top:10px;
   color: hsl(245, 75%, 52%);
   font-size: 11px;
 }
